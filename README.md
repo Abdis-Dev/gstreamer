@@ -1,6 +1,6 @@
 Note :
 
-1. Please make sure "gstreamer-1.0-msvc-x86_64-1.16.2" and "gstreamer-1.0-devel-msvc-x86_64-1.16.2" installed correctly.
+1. Please make sure "gstreamer-1.0-msvc-x86_64-1.16.2" and "gstreamer-1.0-devel-msvc-x86_64-1.16.2" installed correctly (Choose "COMPLETE" version when installing gstreamer).
 2. Add installation to system windows path. 
 
 > Computer -> System properties -> Advanced System Settings -> Advanced Tab -> Environment Variables... -> System Variables -> Variable: Path -> Edit -> New -> C:\gstreamer\1.0\x86_64\bin
